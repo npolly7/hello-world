@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+
+안녕하세요~ 저는 김기손 입니다.
+앞으로 슈퍼 개발자가 될 사람이죠. 크하하하하하
